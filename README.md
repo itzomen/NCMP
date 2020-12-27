@@ -1,5 +1,5 @@
 # NCMP
- Django Framework - Nervtek Community Mentor Program 2020.
+ Django Framework - Nervtek Community Mentorship Program 2020.
  
 For Django Mentorship, we will have two phases. 
 # Phase 1 : Introduction to Django
