@@ -18,4 +18,4 @@ In this phase we will be learning django using a project-based approach. We are 
 ### [ Project Demo ](https://itzomen.pythonanywhere.com/)
 
 # WEEKS
-### [Week 1](/Week 1) Installing Django and printing the version
+### [Week 1](/Week1) Installing Django and printing the version
