@@ -7,11 +7,11 @@ This commands will be abit different on Linux and Mac OS
 `py -3 -m venv env-name`
 3. Activating your environment which means "opening it" to use
 `.\env-name\Scripts\activate`
-##### NB: To call python you use `python` as shown
-###### Out of environment 
-`py -3 --version`
+##### NB: To call python in the environment you use `python` as shown
 ###### In Virtual environment
 `python --version`
+###### Out of environment 
+`py -3 --version`
 
 4. Now install Django, this will take some minutes
 `python -m pip install Django`
