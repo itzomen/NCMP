@@ -17,9 +17,9 @@ This commands will be abit different on Linux and Mac OS
 `python -m pip install Django`
 
 5. Open the python shell and import django to see if python recognises it, then print its version
-`python`
-`import django`
-`print(django.get_version())`
+- `python`
+- `import django`
+- `print(django.get_version())`
 
 #### Example
 <img src="Task1.png">
