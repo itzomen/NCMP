@@ -19,3 +19,4 @@ In this phase we will be learning django using a project-based approach. We are 
 
 # WEEKS
 ### [Week 1](/Week1) Installing Django and printing the version
+### [Week 1](/Week2) Creating a django project and setting it up
