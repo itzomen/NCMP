@@ -1,6 +1,6 @@
 {
     // enter your python path
-    "python.pythonPath": "c:\\Users\\PC\\Documents\\Nervtek\\ncmp-env\\Scripts\\python.exe",
+    "python.pythonPath": "ncmp-env\\Scripts\\python.exe",
     // my custom settings
     "editor.formatOnSave": true,
     "editor.rulers": [
