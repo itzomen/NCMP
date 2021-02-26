@@ -1,1 +1,0 @@
-# Responsive Ecommerce Website Frontend
